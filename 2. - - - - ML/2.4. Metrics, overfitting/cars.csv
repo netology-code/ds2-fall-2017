@@ -1,0 +1,805 @@
+Price	Mileage	Make	Model	Trim	Type	Cylinder	Liter	Doors	Cruise	Sound	Leather
+17314.1031289	8221.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	1.0	1.0
+17542.0360833	9135.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	1.0	0.0
+16218.8478619	13196.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	1.0	0.0
+16336.91314	16342.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	0.0	0.0
+16339.1703239	19832.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	0.0	1.0
+15709.0528211	22236.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	1.0	0.0
+15230.0033898	22576.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	1.0	0.0
+15048.0421841	22964.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	1.0	0.0
+14862.0938696	24021.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	0.0	1.0
+15295.0182669	27325.0	Buick	Century	Sedan 4D	Sedan	6.0	3.1	4.0	1.0	1.0	1.0
+21335.8524849	10237.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	0.0
+20538.0875102	15066.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	0.0
+20512.0940912	16633.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	0.0
+19924.1590524	19800.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+19774.2490661	23359.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+19344.1655374	23765.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	0.0
+19105.1301244	24008.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	0.0
+18543.4270454	26034.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+17808.198996	32896.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	0.0
+17968.8382783	34665.0	Buick	Lacrosse	CX Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+22358.8776781	8970.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	0.0
+23785.9225264	10577.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+22926.0903713	14363.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+21895.7587842	16508.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	1.0
+21273.0617139	18908.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	0.0
+21460.0139529	19467.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	1.0
+21183.1235874	21394.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	0.0
+20406.0995029	22596.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	0.0
+21058.13958	24469.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+19556.8993203	25245.0	Buick	Lacrosse	CXL Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	0.0
+23447.686561	15755.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+23547.2394429	16235.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+23016.0080087	18147.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+22230.0275026	22102.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+22625.073566	23612.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+21799.1720969	24439.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+21341.2572071	25212.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+21683.0314636	26779.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+20986.0160175	27096.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+20902.1037943	29649.0	Buick	Lacrosse	CXS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+20698.0770832	2992.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+20099.2568448	10036.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+18145.1264891	18339.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+17944.8569235	19592.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+19027.8623054	21797.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+18348.8985717	23852.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+17750.8845746	25040.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+17772.96968	25052.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+17394.0213978	25464.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+17645.7450441	27830.0	Buick	Lesabre	Custom Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+21908.3666246	17353.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+21956.3426627	17787.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+21646.1169236	19562.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+21575.456827	20137.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+20952.2178016	20158.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+21562.0475779	23767.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+19981.1279114	24323.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+19425.8486163	27839.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+19191.9896168	29187.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+19641.7419023	31324.0	Buick	Lesabre	Limited Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+25589.9831546	2308.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+25098.6290572	10014.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+23420.7069479	18910.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+22661.0484851	20105.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+23493.082295	20453.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+22435.2028189	22287.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+21878.119996	23237.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+23077.5659103	23798.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+21698.0147455	25489.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+21831.8229164	25564.0	Buick	Park Avenue	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+26831.1940372	4695.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+26060.3353496	9795.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+26781.8146453	12052.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+26302.0742843	13050.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+26190.2714675	17335.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+25508.2109561	17480.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+23348.0169541	24027.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+23406.6898198	25387.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+23159.5437816	25869.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+21536.7417302	37128.0	Buick	Park Avenue	Special Ed Ultra 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+51154.0472155	2202.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	1.0	1.0
+49248.1589667	6685.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	0.0	1.0
+46747.6732703	15343.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	1.0	1.0
+44130.6170551	21341.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	0.0	1.0
+44084.9142116	21367.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	1.0	1.0
+43892.4678804	23371.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	0.0	1.0
+44300.6399582	23751.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	0.0	1.0
+42677.601117	24052.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	0.0	1.0
+43374.05242	25199.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	1.0	1.0
+40619.0722701	30082.0	Cadillac	CST-V	Sedan 4D	Sedan	8.0	5.7	4.0	1.0	1.0	1.0
+33417.965013	6598.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+30957.0807493	10625.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+31431.13037	11013.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+30781.5156335	14937.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+30646.4377006	17094.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+30792.1490285	17870.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+30392.7501584	18449.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+28817.0818466	21039.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	0.0	1.0
+29275.2087137	21056.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+28040.1285292	27484.0	Cadillac	CTS	Sedan 4D	Sedan	6.0	2.8	4.0	1.0	1.0	1.0
+39801.5513543	14095.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+40335.7373136	14743.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+39307.009165	16041.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+38600.2395609	17138.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+38445.8971687	18661.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+36077.7961212	21966.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+35866.5827089	24415.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+35338.6536896	25163.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+36154.3035483	25339.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+34685.6629802	25421.0	Cadillac	Deville	DHS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+42820.3290225	5499.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+41378.0480886	8125.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+40856.3908954	12791.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+41419.0372622	14452.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+37510.2535701	21593.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+37215.1693828	22211.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+36332.894685	25153.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+36245.1582278	26250.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+32954.1413358	36074.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+32537.1867507	41829.0	Cadillac	Deville	DTS Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+35715.7685558	6447.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+35651.6800199	10555.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+35129.340771	11975.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+35165.7593689	13449.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+32501.2451886	17508.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+33220.0284462	18661.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+32509.4782883	20910.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+31132.2134919	23124.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+31181.715159	26222.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+31059.1810268	27544.0	Cadillac	Deville	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+42741.5236662	2846.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	1.0
+40966.6074122	7476.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+38795.379095	13973.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+38297.4625363	16754.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	1.0
+37192.8963661	19100.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	1.0
+36210.122996	21778.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	0.0	1.0
+36633.6338191	22042.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+35895.4994099	23056.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+34974.3780366	25796.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+32038.3395626	35326.0	Cadillac	STS-V6	Sedan 4D	Sedan	6.0	3.6	4.0	1.0	1.0	1.0
+48310.3295449	788.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+48365.9808965	2616.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+45061.9519352	13829.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+44205.8758849	15104.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+42377.9554421	18581.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+41671.5831401	20575.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+41516.4298623	23861.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+41053.4821681	25717.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+38208.5010233	31303.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+39072.3920526	31587.0	Cadillac	STS-V8	Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+70755.4667165	583.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+68566.1871889	6420.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+69133.7317224	7892.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+66374.3070402	12021.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+65281.4812369	15600.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+63913.1172477	18200.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+60567.5490933	23193.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+57154.4434369	29260.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+55639.0876536	31805.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	0.0	1.0
+52001.9943786	42691.0	Cadillac	XLR-V8	Hardtop Conv 2D	Convertible	8.0	4.6	2.0	1.0	1.0	1.0
+12146.1880309	10011.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	0.0	1.0
+12163.8204247	12101.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	0.0	1.0
+11472.0227614	19699.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	0.0	1.0
+11017.1687101	20100.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	0.0
+11096.8572677	20334.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	0.0	0.0
+10386.0402183	22225.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	0.0	0.0
+11137.0456549	22484.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+11045.1088444	24568.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	0.0	1.0
+10777.0525369	27906.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	0.0	0.0
+9928.18817462	29680.0	Chevrolet	AVEO	LS Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	0.0	1.0
+12649.1108933	3629.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	0.0
+12314.5912169	4142.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	0.0
+11318.0080892	11156.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	1.0
+12409.9490936	11981.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	1.0	1.0	1.0
+11555.267402	13404.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	1.0	1.0	0.0
+11700.1114861	15253.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	1.0	0.0	0.0
+11215.0186467	19945.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	0.0
+10144.9520807	23963.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	1.0	1.0	0.0
+10491.0751985	30948.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	0.0
+9954.05417352	37345.0	Chevrolet	AVEO	LS Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	1.0
+11031.1299313	20156.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+11343.0540105	20186.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	1.0	1.0
+11391.2137175	21421.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+11247.8625348	21427.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	1.0	1.0
+10921.9453719	23119.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+11179.9535715	23121.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+11394.8864029	25107.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+11070.0606431	25476.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+11013.8713677	25746.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	1.0	1.0
+11115.0136403	30056.0	Chevrolet	AVEO	LT Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	1.0	1.0
+11918.4560684	7278.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	0.0
+12408.8061477	10213.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	1.0
+11302.9029854	14627.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	0.0
+11615.0210176	19014.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	1.0
+10805.1300899	21013.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	1.0	1.0	1.0
+11169.9183882	22380.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	0.0
+10770.1065538	25065.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	0.0
+10872.0139256	25869.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	0.0
+10921.9453719	27776.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	1.0	0.0	0.0
+9919.04818515	34621.0	Chevrolet	AVEO	LT Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	0.0
+10813.3435214	266.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	0.0	1.0
+11167.8610027	4716.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	1.0	0.0
+10897.0765061	6699.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+10106.0164309	14200.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	0.0	0.0
+10354.0438521	14521.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	0.0
+10287.9773633	16521.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	1.0	1.0
+9720.97888953	20836.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	1.0	0.0
+9506.04793656	22169.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	0.0	1.0
+9789.03767552	22986.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	0.0	1.0	1.0
+9220.82967689	29992.0	Chevrolet	AVEO	SVM Hatchback 4D	Hatchback	4.0	1.6	4.0	1.0	0.0	1.0
+10971.0956143	7091.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	1.0	0.0	0.0
+10315.0182336	14438.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	1.0
+9654.06014156	19183.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	0.0
+9563.7893088	19273.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	1.0	1.0	0.0
+9665.84885973	19565.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	0.0	1.0	1.0
+9482.21940385	24842.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	1.0	0.0	0.0
+8638.93089526	25216.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	0.0
+9041.90625442	26191.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	1.0
+8870.94731588	32914.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	1.0	1.0	0.0
+8768.99858505	35299.0	Chevrolet	AVEO	SVM Sedan 4D	Sedan	4.0	1.6	4.0	0.0	0.0	0.0
+13007.9841779	7372.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13041.8739973	13607.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12045.9207049	19136.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12469.5275763	19712.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+11539.8456501	22405.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+11726.0029741	23103.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12207.8729265	23512.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+11203.1461094	27364.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+10788.9703604	31436.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+11149.6183039	34447.0	Chevrolet	Cavalier	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+14584.4481223	1160.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13681.6980035	10210.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13446.2134153	17741.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12327.6416084	19347.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12274.9575813	19612.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12630.7750336	22571.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12425.3891712	22771.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12319.6962457	24568.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12549.8923339	25816.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12234.8880533	30297.0	Chevrolet	Cavalier	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+14894.9825925	2464.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14198.0924589	11322.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14678.1053344	11488.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+13167.7023213	14630.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13471.0050828	18910.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+12573.8999394	25048.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+12383.4028106	25069.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+13230.9186745	25862.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+11080.5163779	36855.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+11328.9588678	39946.0	Chevrolet	Cavalier	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+15053.9337347	4652.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+14397.9280846	5189.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+14642.3235774	6224.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+13464.8028839	14231.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13678.8630026	17971.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12507.4852674	19715.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13141.0479505	19898.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13594.0855911	20682.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12733.8579245	21386.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12230.0997724	28408.0	Chevrolet	Cavalier	LS Sport Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+14222.3053952	8427.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14266.9125758	8615.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14255.7476815	16958.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13762.9014469	18040.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14275.1276352	18533.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+13688.0001093	18766.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+13308.8337495	20043.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14145.8809893	20512.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+12944.9387537	21684.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+12846.0615932	27560.0	Chevrolet	Cavalier	LS Sport Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14061.122765	4922.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13072.8416305	14311.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+11699.0339156	19816.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+12257.1640856	21492.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+11574.1738127	21525.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+11539.0485333	24163.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+12243.0606241	25014.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+11671.8581267	25727.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+11464.6288588	29410.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+10546.7827451	38866.0	Chevrolet	Cavalier	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+15553.2087144	7695.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+15047.0027381	12305.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+13540.0416417	17343.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14077.9688528	17445.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+12981.9520293	20309.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+13436.0001494	20530.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13161.9428278	21145.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14220.0132152	23069.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+12379.1264733	31199.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+11581.9050445	36566.0	Chevrolet	Classic	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14023.9385467	13776.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12810.910585	19461.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13135.9050323	21796.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13106.9004237	21910.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12845.1742493	22382.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12570.136681	22479.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12897.9295369	23200.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+11961.6199584	27394.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12706.911348	27521.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12487.0542927	28492.0	Chevrolet	Cobalt	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+15635.7961597	1169.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+15747.8039694	6048.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+14619.0785627	15768.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+14185.0215527	20374.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+13699.0357803	25845.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13310.0595948	26143.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13530.0686449	27249.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+13019.0711365	27942.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12684.9862266	29891.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12553.0714279	32844.0	Chevrolet	Cobalt	LS Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+14997.8843364	8880.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14847.0441509	12980.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+15128.9922358	13828.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+15000.9927099	14504.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14593.8540953	18790.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14304.7410354	21128.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13688.9456755	21611.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+13744.8498521	23748.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13545.0308963	27431.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+12741.1902326	34815.0	Chevrolet	Cobalt	LS Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+16116.8439161	865.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+16428.5789814	9882.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+15084.8154043	14824.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+15163.169859	17158.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14897.0405526	18210.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14508.7500852	18910.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14418.1652909	19818.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14191.8822774	21181.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14401.9069288	21527.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14175.8790789	21627.0	Chevrolet	Cobalt	LT Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14429.7896427	6114.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14696.0289898	6709.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14582.7691223	7115.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14194.8236036	9561.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14072.1352319	15233.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13994.9064584	17270.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13830.2490247	17594.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13159.8215442	22740.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+12495.9707512	26204.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+12678.8539747	28683.0	Chevrolet	Cobalt	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+46732.6060296	3625.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	1.0	1.0
+47065.2099128	5239.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	1.0	1.0
+44749.6867933	12115.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	0.0	1.0
+42773.02839	14546.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	1.0	1.0
+41371.3792727	20000.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	0.0	1.0
+39547.5878996	23826.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	1.0	1.0
+39691.7274009	25169.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	1.0	1.0
+38824.8690859	25960.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	0.0	1.0
+36970.8980474	30502.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	1.0	1.0
+37288.9367377	32039.0	Chevrolet	Corvette	Conv 2D	Convertible	8.0	6.0	2.0	1.0	1.0	1.0
+39875.8542553	7054.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	0.0	1.0
+39713.6679219	8967.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	1.0	1.0
+38990.6073346	9410.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	1.0	1.0
+39092.1899183	10717.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	1.0	1.0
+39365.8832385	11619.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	1.0	1.0
+35261.4364307	21350.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	1.0	1.0
+35575.4170489	22740.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	0.0	1.0
+34297.3053503	24259.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	0.0	1.0
+34739.2149604	25747.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	0.0	1.0
+31186.7414628	34191.0	Chevrolet	Corvette	Coupe 2D	Coupe	8.0	6.0	2.0	1.0	0.0	1.0
+21757.0495093	1853.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+19528.1004334	14115.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+19075.6787522	18198.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+19409.7526075	18795.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+18527.2089706	19874.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+18912.9815981	21512.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+17839.8007706	25453.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+17789.3467308	26980.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+17294.1810013	29368.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+18083.396299	29420.0	Chevrolet	Impala	LS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+20021.1952055	1787.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+18835.1897611	8211.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+18727.5083767	14054.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+16805.0573922	19498.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+17154.5764617	21567.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+16644.087873	22383.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+15951.8111691	26070.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+16508.5906949	27460.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+15832.5183482	31202.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+15554.2831291	33357.0	Chevrolet	Impala	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+25948.962594	636.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+27714.0502451	5379.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+25097.4732492	14461.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+24809.0423236	16111.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+23345.329069	22964.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+22894.4386761	26272.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+22064.2921857	27384.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+23151.5461398	27940.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+22120.7577646	28242.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+20294.576825	33892.0	Chevrolet	Impala	SS Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+18957.8900429	5936.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+18950.9069845	8687.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+17891.6337754	17020.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+17801.2295283	19386.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+16723.9938818	19740.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+16744.0302526	21829.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+16825.190882	23460.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+16543.9801373	24583.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+16143.9572923	26532.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+14914.2012809	33906.0	Chevrolet	Malibu	LS MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+19164.6106274	1480.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+18800.9588988	7961.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+17458.2215292	15144.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+17158.9219979	21417.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+16472.8976476	21675.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+16993.7803281	23621.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+16300.4652398	25697.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+15623.200273	27476.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+15138.400824	32462.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+15233.159871	32535.0	Chevrolet	Malibu	LS Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+19471.9748522	6608.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+18009.8460317	15190.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+18273.0061337	16335.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+18311.7563023	17441.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+17553.753684	18451.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+18004.8704148	18771.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+17663.2249529	19490.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+17115.1220306	24461.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+16988.3030635	24905.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+16803.1227499	25874.0	Chevrolet	Malibu	LT MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+19446.8829407	932.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+17119.4575724	18277.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+17316.0966034	19593.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+16860.8707794	19883.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+17312.9071543	21420.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+16403.2536268	23133.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+16536.7438751	24218.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+16341.8040993	25394.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+16713.9846893	26328.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+16295.2114375	28239.0	Chevrolet	Malibu	LT Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+18974.9220296	5632.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+18324.8319254	7397.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+19581.2314138	7645.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+18169.3754825	14754.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+17986.2240909	17488.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+17173.9423218	18721.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+16456.9746439	20200.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+16267.0948891	21452.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+16860.0943255	22841.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	1.0	1.0	1.0
+16027.2864873	22889.0	Chevrolet	Malibu	MAXX Hback 4D	Hatchback	6.0	3.5	4.0	0.0	1.0	1.0
+17089.9188297	8732.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+17463.0460806	11393.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+17218.6857499	14579.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+17162.4782554	15903.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+16507.0702675	17451.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+16752.5144033	18562.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+16646.7707993	20154.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+15623.9197646	21272.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+15664.6249048	25787.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+15680.864426	25956.0	Chevrolet	Malibu	Sedan 4D	Sedan	6.0	3.5	4.0	0.0	1.0	1.0
+18800.0931026	5827.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	0.0
+18910.804286	8345.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	1.0
+19177.4120635	10414.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+18040.1440065	11647.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	1.0
+17685.2009949	15898.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	0.0
+17515.3975894	18602.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	0.0
+16357.9923217	23491.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+16345.9437469	25931.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+15797.1957604	26700.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+15503.5087962	33345.0	Chevrolet	Monte Carlo	LS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	0.0
+21745.0294409	7065.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+21725.0107491	13457.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+22384.1186918	14788.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	1.0
+20537.1417181	16950.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	0.0
+21233.911356	17337.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	1.0
+20676.1655109	18021.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	1.0
+20839.1499655	22152.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	1.0
+20017.9684302	22729.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	0.0
+18876.8706537	27218.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+17586.9285827	39049.0	Chevrolet	Monte Carlo	LT Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	1.0
+23573.8220022	12466.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+23527.7285025	14948.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+22113.6280241	21992.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+22470.3584296	22626.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+20619.1140102	24067.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	0.0	0.0
+20047.9513612	24665.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	0.0
+21525.3390083	25020.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	1.0
+20382.1503096	25240.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	1.0
+21020.8367766	25550.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	1.0
+20221.8088113	26223.0	Chevrolet	Monte Carlo	SS Coupe 2D	Coupe	6.0	3.8	2.0	1.0	1.0	1.0
+25452.4738546	11892.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+23449.3063258	17273.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+23578.1648607	19148.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+22525.2697215	19521.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+21982.6477083	20472.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+22231.5631515	21929.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+22189.1159711	25651.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+21765.0665792	25794.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+21403.7564223	27168.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	0.0	1.0
+21200.6902072	31197.0	Pontiac	Bonneville	GXP Sedan 4D	Sedan	8.0	4.6	4.0	1.0	1.0	1.0
+19682.0350106	11554.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+18678.4141227	16496.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+20318.8909731	17583.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+20127.0441847	18419.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+19751.0414308	20510.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+17844.7307708	21121.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+18856.0186906	22423.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+18566.0707033	24747.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+18063.0049109	27574.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+17768.0595054	28385.0	Pontiac	Bonneville	SE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+23197.43679	2295.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+23102.0223672	5653.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+22460.5299963	8928.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+21607.7725656	11069.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+22004.9304375	15516.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+20830.9942961	19419.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+20109.9041213	22891.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+19116.1310874	26252.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+19689.740844	27077.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+19338.3759976	27966.0	Pontiac	Bonneville	SLE Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+21903.3226175	4537.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	0.0
+22736.8344689	5690.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+22104.9735713	9049.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+22311.049513	11221.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+21875.0976308	12313.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	1.0
+20627.6616891	20770.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+19540.2447886	22628.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	0.0
+19204.8093414	26477.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	1.0
+18158.0831291	28354.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	0.0
+18529.3421171	30063.0	Pontiac	G6	GT Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	1.0
+21383.0671605	7287.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+20452.6694749	10338.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	0.0
+20677.5938192	11204.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	0.0
+19294.7875043	19539.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	0.0
+18548.9785926	20870.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	0.0
+18042.2210744	21702.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	0.0
+18620.8713666	25516.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	1.0
+17023.9368653	30404.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	0.0	0.0
+16216.9807056	35624.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	0.0
+15792.8314369	41566.0	Pontiac	G6	Sedan 4D	Sedan	6.0	3.5	4.0	1.0	1.0	1.0
+17360.8106353	881.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	0.0	1.0	1.0
+17675.8374881	5131.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	0.0	1.0	1.0
+17141.9411582	6761.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	1.0	1.0	1.0
+17202.8340553	9380.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	0.0	1.0	1.0
+16792.6795291	12071.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	1.0	1.0	1.0
+15595.8841326	18315.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	0.0	1.0	1.0
+15253.8685661	20917.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	1.0	1.0	1.0
+15594.8068443	22414.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	0.0	1.0	1.0
+15059.1340773	22641.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	1.0	1.0	1.0
+14703.1368682	23335.0	Pontiac	Grand Am	GT Coupe 2D	Coupe	6.0	3.4	2.0	0.0	1.0	1.0
+15979.0148368	3946.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+16379.8530041	4188.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+15327.1003205	4318.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+15846.0127123	5350.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+15604.1458157	5788.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+14841.9170489	12420.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+15077.1758438	13262.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13961.1116419	19602.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13034.0685276	23976.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13162.852054	24542.0	Pontiac	Grand Am	SE Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+18254.9227723	16554.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+17095.0352244	18720.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+17162.8734406	20829.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+16391.1717146	21304.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+15788.1047804	25295.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+16569.1412397	25777.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+16997.6937412	25830.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+16283.9589912	26511.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+15457.1705915	29925.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+14963.0456188	31471.0	Pontiac	Grand Prix	GT Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+21230.9779853	11229.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+22100.3931735	12314.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+21300.0194494	12772.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+21281.8804876	17417.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+19646.7174785	21132.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+20173.9063294	21211.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+18701.2226154	24992.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+19423.1650215	25557.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+19956.7584133	26028.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+19448.2263302	27721.0	Pontiac	Grand Prix	GTP Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	1.0
+19822.115392	1592.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+19567.2592911	2189.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+16853.1078491	17959.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+16516.955549	20751.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	1.0
+15979.0148368	21974.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+16256.2361676	22637.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+15724.2521704	23989.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+15967.2454001	25598.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	0.0	0.0
+16041.6855861	27800.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+15756.1461297	29325.0	Pontiac	Grand Prix	Sedan 4D	Sedan	6.0	3.8	4.0	1.0	1.0	0.0
+32422.7613758	9185.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	1.0	1.0
+32219.5892845	10915.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	1.0	1.0
+31024.8721146	13678.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	1.0	1.0
+29595.7942879	16193.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	0.0	1.0
+29664.702687	21418.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	0.0	1.0
+27425.8439126	23886.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	0.0	1.0
+27370.9581106	24960.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	1.0	1.0
+27548.6296095	26126.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	1.0	1.0
+28502.3061087	27199.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	1.0	1.0
+25527.0130266	36480.0	Pontiac	GTO	Coupe 2D	Coupe	8.0	5.7	2.0	1.0	1.0	1.0
+13160.1245638	13145.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12830.0987783	17830.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12828.0309774	19081.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12878.0468289	19225.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12832.4623875	20618.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12464.0734613	21891.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+12465.5085234	23931.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12258.8575924	24318.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+11903.0977472	25285.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+12209.559623	26097.0	Pontiac	Sunfire	Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+16391.9265733	18096.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	1.0	0.0
+16033.9306185	18391.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	1.0	1.0
+16106.8272209	19465.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	0.0	0.0
+16551.219566	19531.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	1.0	1.0
+17325.269543	19894.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	0.0	0.0
+16078.6654905	22779.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	1.0
+15297.8359729	23062.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+15505.2938063	24239.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	0.0	0.0
+15174.3466126	27887.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+14546.8848142	33374.0	Pontiac	Vibe	AWD Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	1.0	1.0
+17803.2790885	12303.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	1.0	1.0	1.0
+16353.0965174	16078.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	1.0	0.0
+15977.9110836	17053.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	0.0	1.0
+15568.9742375	18206.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+15589.7804828	21307.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+15730.0462662	21391.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	1.0	1.0
+15802.6528609	21461.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+15086.8995925	27438.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	0.0	1.0
+14396.2705573	31424.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+14869.2820669	31791.0	Pontiac	Vibe	GT Sportwagon	Wagon	4.0	1.8	4.0	1.0	1.0	1.0
+16927.779761	2973.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+17418.0687339	4463.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	0.0	1.0
+16379.0987013	8754.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	1.0	0.0
+16706.6740679	9150.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+17214.3250783	12610.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	1.0	1.0
+15821.9497182	14304.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	1.0
+14398.9226926	21688.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+15622.1210979	23217.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	1.0	1.0	1.0
+14909.0509878	23323.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	1.0	1.0
+14853.1990111	24270.0	Pontiac	Vibe	Sportwagon 4D	Wagon	4.0	1.8	4.0	0.0	0.0	0.0
+35622.1394955	10340.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	0.0
+34819.2971215	12251.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	0.0
+34355.0037277	17711.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	0.0
+32737.0845459	19112.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+33540.5361051	20925.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+31970.5420755	21208.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	0.0
+33287.4095987	21661.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+32075.9848736	23553.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	0.0
+31969.0698115	24559.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	0.0
+27666.2310782	35157.0	SAAB	9_3	Linear Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	0.0
+29246.2373351	3907.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	1.0
+26337.8305976	16068.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	0.0
+26775.0320895	16688.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	0.0
+25299.9696387	19569.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+24896.5976042	21266.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+25996.8064019	21433.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+24801.6171939	26345.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+24063.0126849	27674.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+23249.8416851	27686.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	0.0
+22244.8765534	50387.0	SAAB	9_3	Linear Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	1.0
+37088.5624131	3828.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+33381.8191525	17381.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+33358.7677714	17590.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+33586.906092	18930.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+30731.9416548	22479.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	0.0
+30315.169442	23635.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	0.0
+30166.852512	25049.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	0.0
+30251.0184174	27558.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+29142.7143856	31655.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+29612.1540482	32477.0	SAAB	9_3 HO	Aero Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+26841.0808355	10003.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+27825.9499732	10014.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	1.0
+27284.7513282	14281.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+27060.13756	17319.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	1.0
+25618.2818848	20208.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	1.0
+25790.5141407	21160.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+25148.3791861	22272.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+24852.4952807	22814.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+24173.5258825	27015.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	0.0
+23733.4022491	27600.0	SAAB	9_3 HO	Aero Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+38324.8090767	12090.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+38167.1735772	13162.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+37383.5034934	16088.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+36338.7513277	18195.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	0.0
+35580.332314	21167.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	0.0
+35304.4947015	21293.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+34392.9952721	24031.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+33984.4307697	25420.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	0.0
+33248.3425243	27051.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	0.0	1.0
+28777.9596948	48991.0	SAAB	9_3 HO	Arc Conv 2D	Convertible	4.0	2.0	2.0	1.0	1.0	1.0
+32197.3404661	3867.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+32053.097161	5144.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+30274.7105752	10800.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+30353.5855538	11273.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+30122.4297352	14568.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	1.0
+26789.8326082	22189.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	0.0
+28291.7622611	22328.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+27109.4058898	22598.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	0.0	1.0
+27256.4945123	26400.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+25267.367676	34175.0	SAAB	9_3 HO	Arc Sedan 4D	Sedan	4.0	2.0	4.0	1.0	1.0	0.0
+35033.2154538	1676.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+32746.1313865	7924.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	0.0	1.0
+33183.3325965	9795.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+31002.73442	15087.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+30075.9947262	22052.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+29844.2040037	23143.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+28432.8242125	25247.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+28054.9823619	26276.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+28502.9624061	28598.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+24912.0805809	38717.0	SAAB	9_5	Arc Sedan 4D	Sedan	4.0	2.3	4.0	1.0	0.0	1.0
+31849.3079472	16956.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+32649.7605085	16975.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+29961.2549387	20015.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+31554.4053348	20103.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+29914.3795755	22105.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+30575.2488206	22298.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+30271.9222997	23426.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+28678.0752512	25380.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+28829.028003	26503.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+26955.0412018	31773.0	SAAB	9_5	Arc Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+33005.7799579	6409.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+30661.2601504	14278.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+30443.8799002	15050.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+30322.1505714	16225.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+31153.0089597	17317.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+31084.9376071	18187.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+31156.5957889	18805.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+29114.5445056	21960.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+25845.2061146	36557.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+24903.4777388	40719.0	SAAB	9_5	Linear Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+30800.6583893	8017.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	0.0	1.0
+28416.4616732	14613.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	0.0	1.0
+28185.7762498	19854.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+28204.6035781	22021.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+26653.2393904	22590.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+27610.8642029	22881.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+26698.0781511	23055.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+27241.436178	23204.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+27703.2039951	24738.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+24405.0667597	31344.0	SAAB	9_5 HO	Aero Sedan 4D	Sedan	4.0	2.3	4.0	1.0	1.0	1.0
+30959.9321331	17673.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+29986.7915006	18464.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+29908.1809814	19830.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+28328.2665377	20685.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+29197.7913005	20907.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+29321.0825062	21545.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+29481.5287571	21822.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+26792.3001566	25357.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+27788.8132386	26786.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	0.0	1.0
+26012.3746248	34269.0	SAAB	9_5 HO	Aero Wagon 4D	Wagon	4.0	2.3	4.0	1.0	1.0	1.0
+27280.9820609	4836.0	SAAB	9-2X AWD	Linear Wagon 4D	Wagon	4.0	2.5	4.0	1.0	1.0	0.0
+25959.1220304	17431.0	SAAB	9-2X AWD	Linear Wagon 4D	Wagon	4.0	2.5	4.0	1.0	0.0	1.0
+23274.4807114	21616.0	SAAB	9-2X AWD	Linear Wagon 4D	Wagon	4.0	2.5	4.0	1.0	1.0	0.0
+23329.2082556	25218.0	SAAB	9-2X AWD	Linear Wagon 4D	Wagon	4.0	2.5	4.0	1.0	0.0	1.0
+16916.8695355	2879.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	0.0	1.0
+15639.0367431	8507.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	0.0	0.0
+16256.2361676	10555.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	0.0	1.0
+15395.0108742	12920.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	0.0	0.0
+14881.955446	14376.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	0.0	0.0
+15277.0675875	16951.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	0.0
+14702.7983198	17656.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	0.0
+15033.1503167	19455.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	0.0	1.0
+13991.0400571	21020.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	0.0
+14771.0034644	22255.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	0.0	1.0
+13719.2383076	23645.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	0.0	0.0
+13869.1549423	24349.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	0.0
+13518.2352516	25981.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	0.0
+13825.1547111	26034.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	0.0	1.0
+13811.1550223	26236.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	1.0
+14077.9688528	26788.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	0.0	1.0
+14411.8588505	26986.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	0.0	1.0
+13600.0341846	27231.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	1.0	0.0
+13032.8681008	30108.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	1.0	1.0	1.0
+11539.0485333	38958.0	Saturn	Ion	Quad Coupe 2D	Coupe	4.0	2.2	2.0	0.0	0.0	0.0
+14739.0672359	1737.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	1.0
+15110.1925983	2392.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	0.0
+14202.9971532	11836.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	0.0
+15194.9753541	12412.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	1.0
+14116.9215085	12878.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	0.0	0.0
+13174.0710095	13318.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	1.0
+13258.3658889	14938.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	1.0
+12791.7510887	16163.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	1.0
+12293.0599623	17139.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	0.0	1.0
+13998.1292758	18257.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+14568.0022546	18511.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13122.9054571	19101.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+13494.2887834	19500.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	0.0	1.0
+12036.2167506	19853.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+12162.1400469	21770.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	0.0
+12333.603993	21877.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	0.0
+12099.0145779	22758.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	0.0
+12119.0897018	22826.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	1.0
+11679.9235461	23388.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	0.0
+13216.9120482	24069.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	0.0
+12412.5211069	24664.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+12284.2882901	24740.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	1.0	0.0
+12594.1830135	26328.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	1.0
+12105.9813355	28298.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	0.0
+11873.5339948	28398.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	0.0
+12965.2232695	29707.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+10563.0661617	32458.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	0.0
+11413.5304025	32619.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	1.0	0.0	1.0
+11504.8245497	33962.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	0.0	0.0
+11521.5258881	34998.0	Saturn	Ion	Sedan 4D	Sedan	4.0	2.2	4.0	0.0	1.0	1.0
+18173.978084	5826.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	1.0	1.0
+18490.9830289	7755.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	1.0	1.0
+17322.0784043	10102.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	0.0	1.0
+17978.3569978	10986.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	0.0	0.0
+16425.174796	14242.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	0.0	0.0
+16507.0702675	16229.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	0.0	0.0
+16175.9576042	19095.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	1.0	0.0
+15731.1328969	20484.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	1.0	0.0
+15118.8932283	25979.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	1.0	0.0
+13585.6368022	35662.0	Saturn	L Series	L300 Sedan 4D	Sedan	6.0	3.0	4.0	1.0	0.0	0.0
