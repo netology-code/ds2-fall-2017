@@ -1,0 +1,54 @@
+1	Google	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	6	dobj	_	_
+2	с	_	ADP	_	fPOS=ADP++	3	case	_	_
+3	помощью	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing|fPOS=NOUN++	6	nmod	_	_
+4	искусственного	_	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|fPOS=ADJ++	5	amod	_	_
+5	интеллекта	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	3	nmod	_	_
+6	испек	_	VERB	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur|fPOS=NOUN++	0	ROOT	_	_
+7	печенье	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|fPOS=NOUN++	6	nsubj	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	6	punct	_	_
+
+1	Овечкин	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	2	nsubj	_	_
+2	стал	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+3	первой	_	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|fPOS=ADJ++	4	amod	_	_
+4	звездой	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing|fPOS=NOUN++	2	nmod	_	_
+5	дня	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+6	в	_	ADP	_	fPOS=ADP++	7	case	_	_
+7	НХЛ	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	2	punct	_	_
+
+1	На	_	ADP	_	fPOS=ADP++	2	case	_	_
+2	Кубани	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing|fPOS=NOUN++	3	nmod	_	_
+3	задержали	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+4	подозреваемого	_	NOUN	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|fPOS=ADJ++	3	dobj	_	_
+5	в	_	ADP	_	fPOS=ADP++	7	case	_	_
+6	двойном	_	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|fPOS=ADJ++	7	amod	_	_
+7	убийстве	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	3	punct	_	_
+
+1	В	_	ADP	_	fPOS=ADP++	2	case	_	_
+2	Ростове	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+3	суд	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	4	nsubj	_	_
+4	вынес	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+5	приговор	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|fPOS=NOUN++	4	dobj	_	_
+6	банде	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|fPOS=NOUN++	5	nmod	_	_
+7	«амазонок»	_	NOUN	_	fPOS=CONJ++	6	nmod	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	4	punct	_	_
+
+1	Чиновники	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|fPOS=NOUN++	2	nsubj	_	_
+2	закрасили	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+3	мемориал	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|fPOS=NOUN++	2	dobj	_	_
+4	жертвам	_	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur|fPOS=NOUN++	2	nmod	_	_
+5	теракта	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+6	в	_	ADP	_	fPOS=ADP++	8	case	_	_
+7	питерском	_	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|fPOS=ADJ++	8	amod	_	_
+8	метро	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|fPOS=NOUN++	5	nmod	_	_
+9	.	_	PUNCT	.	fPOS=PUNCT++.	2	punct	_	_
+
+1	Клуб	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	3	nsubj	_	_
+2	«Наполи»	_	ADV	_	fPOS=PART++	3	advmod	_	_
+3	продлил	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+4	контракт	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|fPOS=NOUN++	3	dobj	_	_
+5	с	_	ADP	_	fPOS=ADP++	6	case	_	_
+6	Гуламом	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+7	.	_	PUNCT	.	fPOS=PUNCT++.	3	punct	_	_
+
